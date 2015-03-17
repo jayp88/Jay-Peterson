@@ -1,0 +1,6 @@
+Unstaged changes after reset:
+M	Gemfile
+M	Gemfile.lock
+M	app/assets/javascripts/application.js
+M	app/views/layouts/application.html.erb
+M	app/views/pages/home.html.erb
